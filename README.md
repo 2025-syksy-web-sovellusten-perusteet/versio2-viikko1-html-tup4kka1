@@ -54,3 +54,5 @@ GitHub Actions ajaa samat testit automaattisesti jokaisesta `git push` -komennos
 - Push GitHubiin. CI (GitHub Actions) kertoo testien tilan (vihreä/punainen).
 
 > Testit tarkistavat DOM-rakenteen ja saavutettavuuden perusasiat. Kun yllä olevat kohdat täyttyvät, testit menevät läpi sekä paikallisesti että CI:ssä.
+
+<!-- Trigger commit 11/01/2025 22:02:30 -->
